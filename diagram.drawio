@@ -1,6 +1,6 @@
-<mxfile host="65bd71144e" modified="2021-02-09T21:58:45.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.53.0 Chrome/87.0.4280.141 Electron/11.2.1 Safari/537.36" etag="cc2il_qfrYcnxWUuLlzT" version="13.10.0" type="embed">
+<mxfile host="65bd71144e" modified="2021-02-09T22:04:40.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.53.0 Chrome/87.0.4280.141 Electron/11.2.1 Safari/537.36" etag="frk3LSuNILWzTZd5uiuH" version="13.10.0" type="embed">
     <diagram id="yQaAnWD96xburXTk8aiI" name="Page-1">
-        <mxGraphModel dx="1054" dy="603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1054" dy="539" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -137,7 +137,7 @@
                 <mxCell id="209" value="id_booking" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="207">
                     <mxGeometry x="30" width="168" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="107" value="RELAZIONE 1 : N&lt;br&gt;Una stanza può avere più ospiti&lt;br&gt;Un ospite può avere una sola stanza&lt;br&gt;&lt;br&gt;RELAZIONE 1 : 1&lt;br&gt;Un n° prenotazione può essere di una sola stanza&lt;br&gt;Una stanza può avere solo un n° prenotazione&lt;br&gt;&lt;br&gt;RELAZIONE 1 : N&lt;br&gt;Un ° prenotazione può essere associato ad un solo ospite&lt;br&gt;Un ospite può avere associati più numeri di prenotazione" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                <mxCell id="107" value="RELAZIONE 1 : N&lt;br&gt;Una stanza può avere più ospiti&lt;br&gt;Un ospite può avere una sola stanza&lt;br&gt;&lt;br&gt;RELAZIONE 1 : 1&lt;br&gt;Un n° prenotazione può essere di una sola stanza&lt;br&gt;Una stanza può avere solo un n° prenotazione&lt;br&gt;&lt;br&gt;RELAZIONE 1 : N&lt;br&gt;Un n° prenotazione può essere associato ad un solo ospite&lt;br&gt;Un ospite può avere associati più numeri di prenotazione" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="34" y="438" width="250" height="220" as="geometry"/>
                 </mxCell>
                 <mxCell id="131" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
@@ -152,10 +152,10 @@
                         <mxPoint x="594" y="265.5" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="136" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                <mxCell id="136" value="1" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="291" y="82" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="137" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                <mxCell id="137" value="N" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="491" y="85" width="40" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="138" value="Booking" style="shape=table;startSize=41;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
@@ -248,10 +248,10 @@
                 <mxCell id="153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="145" target="152" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="155" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                <mxCell id="155" value="1" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="52" y="312" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="156" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                <mxCell id="156" value="1" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="148" y="312" width="40" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="176" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
@@ -260,11 +260,11 @@
                 <mxCell id="177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="148" target="176" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="180" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="718" y="382" width="40" height="20" as="geometry"/>
+                <mxCell id="180" value="1" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="736" y="378" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="181" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="620" y="382" width="40" height="20" as="geometry"/>
+                <mxCell id="181" value="N" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="608" y="378" width="40" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
